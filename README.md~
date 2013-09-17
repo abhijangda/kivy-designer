@@ -22,4 +22,4 @@ git clone http://github.com/kivy/kivy-designer/
 cd kivy-designer
 python main.py
 
-![ScreenShot](https://raw.github.com/abhijangda/kivy-designer/master/kivy_designer.png)
+[![screenshot](https://github.com/kivy/kivy-designer/master/kivy_designer.png)]
